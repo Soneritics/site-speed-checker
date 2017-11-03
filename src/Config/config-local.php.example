@@ -1,0 +1,12 @@
+<?php
+return [
+    'Database' => [
+        'Default' => [
+            'type' => 'PDOMySQL',
+            'dsn' => 'mysql:dbname=...;host=localhost',
+            'user' => '...',
+            'password' => '...',
+            'debug' => false
+        ]
+    ]
+];

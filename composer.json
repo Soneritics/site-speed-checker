@@ -1,0 +1,10 @@
+{
+  "name": "soneritics/site-speed-checker",
+  "type": "application",
+  "description": "Site speed checker",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.0.0",
+    "soneritics/framework": "dev-master"
+  }
+}

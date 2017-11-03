@@ -1,0 +1,4 @@
+/vendor/
+/src/Config/config-local.php
+/src/Config/config-sites.php
+/.idea/
